@@ -1,0 +1,11 @@
+.photoWrap{
+    border-radius: 5%;
+    padding:0;
+    margin:0;
+}
+.photo{
+    border-radius: 5%;
+    border-style: solid;
+    padding:0;
+    margin: 0;
+}
